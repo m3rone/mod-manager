@@ -28,4 +28,6 @@ Makefile that lets you manage game mods (or tbh a lot of other things. I made th
 
 ---
 
-Download the Makefile via [releases](https://github.com/m3rone/mod-manager/releases) or just [get the raw file](https://raw.githubusercontent.com/m3rone/mod-manager/refs/heads/main/Makefile)
+[Latest releases file](https://github.com/m3rone/mod-manager/releases/latest/download/Makefile)
+
+[Raw file](https://raw.githubusercontent.com/m3rone/mod-manager/refs/heads/main/Makefile)
