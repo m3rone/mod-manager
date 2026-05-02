@@ -1,6 +1,6 @@
 # mod-manager
 
-Makefile that lets you manage mods with git. Put it in your mods folder and all that
+Makefile that lets you manage game mods (or tbh a lot of other things. I made this for Skyrim lol) with git. Put it in your mods folder and all that
 
 `make init`: initializes the repo, run this first for every new mods directory
 
